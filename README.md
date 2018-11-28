@@ -23,6 +23,7 @@ https://github.com/czhu6515/Udacity-Nanodegree/blob/master/student_intervention/
 Used SVMs, GNB, and RFCs to identify students who might need early intervention before they fail to graduate.
 
 ### Titanic Survival
+https://github.com/czhu6515/Udacity-Nanodegree/blob/master/titanic_survival_exploration/titanic_survival_exploration.ipynb
 
 Basic data exploration project. Also used regressions to predict survival of individuals aboard the titanic
 
